@@ -1,0 +1,48 @@
+
+.A{
+    position: relative;
+    left: 50px;
+    top: 100px;
+
+}
+
+.B{
+    position: relative;
+    left: 300px;
+    top: 100px;
+}
+.D{
+    color: rgb(17, 114, 17);
+    font-size: 300%;
+    position: relative;
+    left: 500px;
+    bottom: 400px;
+}
+.C{
+    position: relative;
+    left: 700px;
+    bottom: 465px;
+}
+.E{
+    color: rgb(236, 236, 14);
+    font-size: 300%;
+    position: relative;
+    left: 725px;
+    bottom: 545px;
+}
+.F{
+    color: brown;
+    font-size: 600%;
+    position: relative;
+    left: 360px;
+    bottom: 590px;
+}
+a{
+    font-size: 200%;
+    position: absolute;
+    bottom: 93%;
+    left: 45%;
+    border: 2px solid red;
+    border-radius: 10px;
+    
+}

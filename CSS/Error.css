@@ -1,0 +1,16 @@
+.A{
+    border-radius: 10px;
+    border: 3px solid red;
+    font-size: 400%;
+    position: absolute;
+    left: 320px;
+    bottom: 530px;
+}
+a{
+    font-size: 230%;
+    position: absolute;
+    border: 3px solid red;
+    bottom: 2px;
+    right: 45%;
+
+}
